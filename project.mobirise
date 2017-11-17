@@ -74,7 +74,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/826f5517b2da8cb223a9bd5b705292ef-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/frspel-2000x1311.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
